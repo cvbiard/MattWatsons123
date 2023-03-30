@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Clark\source\repos\MattWatson's123\MattWatson's123\main.c(10,21): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MattWatson's123.vcxproj -> C:\Users\Clark\source\repos\MattWatson's123\Debug\MattWatson's123.exe

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MattWatson's123", "MattWatson's123\MattWatson's123.vcxproj", "{97840C7A-D9E2-48DF-9FA0-AC147090576C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MattWatson's123Setup", "MattWatson's123Setup\MattWatson's123Setup.vdproj", "{6F6E9B08-3C34-488F-8636-9159F6E68088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97840C7A-D9E2-48DF-9FA0-AC147090576C}.Debug|x64.ActiveCfg = Debug|x64
+		{97840C7A-D9E2-48DF-9FA0-AC147090576C}.Debug|x64.Build.0 = Debug|x64
+		{97840C7A-D9E2-48DF-9FA0-AC147090576C}.Debug|x86.ActiveCfg = Debug|Win32
+		{97840C7A-D9E2-48DF-9FA0-AC147090576C}.Debug|x86.Build.0 = Debug|Win32
+		{97840C7A-D9E2-48DF-9FA0-AC147090576C}.Release|x64.ActiveCfg = Release|x64
+		{97840C7A-D9E2-48DF-9FA0-AC147090576C}.Release|x64.Build.0 = Release|x64
+		{97840C7A-D9E2-48DF-9FA0-AC147090576C}.Release|x86.ActiveCfg = Release|Win32
+		{97840C7A-D9E2-48DF-9FA0-AC147090576C}.Release|x86.Build.0 = Release|Win32
+		{6F6E9B08-3C34-488F-8636-9159F6E68088}.Debug|x64.ActiveCfg = Debug
+		{6F6E9B08-3C34-488F-8636-9159F6E68088}.Debug|x86.ActiveCfg = Debug
+		{6F6E9B08-3C34-488F-8636-9159F6E68088}.Release|x64.ActiveCfg = Release
+		{6F6E9B08-3C34-488F-8636-9159F6E68088}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {953A3FCF-0562-40C3-BAFA-49275B077909}
+	EndGlobalSection
+EndGlobal
